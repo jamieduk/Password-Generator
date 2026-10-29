@@ -1,4 +1,3 @@
-::: {align="center"}
 # 🔐 Password Lab
 
 ### A browser-based workbench for passwords, hashes, and exposure checks.
