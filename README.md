@@ -1,6 +1,6 @@
-# 🔐 Password Lab
-
+# 🔐 Password Lab By Jay @ jnetai.com
 ### A browser-based workbench for passwords, hashes, and exposure checks.
+# https://github.com/jamieduk/Password-Generator
 
 **Generate. Inspect. Check.**\
 A lightweight, privacy-conscious toolkit that runs in your browser ---
